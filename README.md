@@ -1,4 +1,3 @@
-> [新人技能必备](https://github.com/moglo-tech/blog/issues/12)
 
 > [设置UITableView Header 不悬停的小技巧](https://github.com/moglo-tech/blog/issues/11)
 
